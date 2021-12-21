@@ -1,2 +1,2 @@
-# flappybird
-flappy bird game using pygame
+# Flappy Bird
+Recreation of popular mobile game "Flappy Bird" using pygame
